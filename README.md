@@ -1,6 +1,6 @@
 # sb-electron-vue
 
-> An electron-vue project
+> Electronを弄り倒す砂場です
 
 #### Build Setup
 
@@ -22,6 +22,13 @@ npm test
 npm run lint
 
 ```
+
+## 作業予定
+### TypeScript導入
+### テスト導入
+### CI導入
+### Electron Updater
+### リリースタグ
 
 ---
 
